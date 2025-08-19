@@ -11,7 +11,7 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
 
 - [Features](Features)
 
-- Demo / Screenshots
+- [Demo / Screenshots](Demo / Screenshots)
 
 - Architecture
 
