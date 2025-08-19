@@ -1,5 +1,7 @@
 # Solideus AI: AI-powered Smart Contract Generator with Security Auditing
 
+<img width="4000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/137113a2-c32e-42f2-948b-ec9cf45f29da" />
+
 Solideus AI converts natural-language specifications into Solidity smart contracts, runs automated static analysis, and provides an interactive playground for developers to iterate and deploy on the Sepolia testnet. The system blends large-language model generation (Gemini) with classical analysis tools (Slither) and developer workflows (Hardhat, ethers.js).
 
 Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Solidity from language prompts, automatically run a security audit (Slither + AI-assisted review), store provenance on IPFS (Pinata), and offer a one-click deploy to Sepolia via Hardhat + Alchemy, all while keeping a clear, auditable trail and warnings around private keys and production usage.
@@ -7,7 +9,7 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
 
 ## Table of Contents
 
-- Features
+- [Features](Features)
 
 - Demo / Screenshots
 
@@ -64,10 +66,12 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
 
 ## Demo / Screenshots
 
-
+<img width="4000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/84f20346-c55d-45df-bc60-5f4062eb2ffe" />
 
 
 ## Architecture
+
+<img width="4000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/433e37b4-06c6-4d7c-aac6-29bb398e7ae5" />
 
 - Solideus AI is split into three logical layers:
 
