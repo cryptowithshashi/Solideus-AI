@@ -19,9 +19,9 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
 
 - [Getting Started - Quick Setup](#GettingStarted-QuickSetup)
 
-  - .env.example
+  - [.env.example](.env.example)
 
-  - Security notes
+  - [Security notes](Securitynotes)
 
 - Backend — Detailed Setup & API
 
