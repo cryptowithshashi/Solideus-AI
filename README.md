@@ -13,33 +13,40 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
 
 - [Demo / Screenshots](#demo--screenshots)
 
-- [Architecture](Architecture)
+- [Architecture](#architecture)
+  
+- [Repository Structure](#repository-structure)
 
-- [Repository Structure](RepositoryStructure)
+- [Getting Started - Quick Setup](#getting-started---quick-setup)
 
-- [Getting Started - Quick Setup](#GettingStarted-QuickSetup)
-
-- [Backend — Detailed Setup & API](#Backend--detailed-setup-&-api)
-
-- Frontend — Detailed Setup
-
-- Deployment (Render & Vercel)
-
-- Testing & QA
-
-- Security & Privacy
-
-- Troubleshooting
-
-- Roadmap / Future Work
-
-- Contributing
-
-- License
-
-- Acknowledgments & References
-
-- Appendix — FAQ & Contact / Security Reporting
+- [Backend — Detailed Setup & API](#backend-detailed-setup--api)
+  - [Hardhat setup](#hardhat-setup)
+  - [API Endpoints](#api-endpoints)
+  - [How the backend triggers Slither](#how-the-backend-triggers-slither)
+    
+- [Frontend — Detailed Setup](#frontend-detailed-setup)
+  
+- [Deployment (Render & Vercel)](#deployment-render--vercel)
+  - [Backend → Render (Web Service)](#backend--render-web-service)
+  - [Frontend → Vercel](#frontend--vercel)
+    
+- [Testing & QA](#testing--qa)
+  
+- [Security & Privacy](#security--privacy)
+  
+- [Troubleshooting](#troubleshooting)
+  
+- [Roadmap / Future Work](#roadmap--future-work)
+  
+- [Contributing](#contributing)
+  
+- [License](#license)
+  
+- [Acknowledgments & References](#acknowledgments--references)
+  
+- [Appendix — FAQ & Contact](#appendix--faq--contact)
+  
+- [Final Notes](#final-notes)
 
 
 ## Features
