@@ -26,7 +26,7 @@ Solideus AI's novelty is in its end-to-end safety-focused pipeline: generate Sol
     
 - [Frontend — Detailed Setup](#frontend-detailed-setup)
   
-- [Deployment (Render & Vercel)](#deployment-render--vercel)
+- [Deployment (Render & Vercel)](#deployment)
   - [Backend → Render (Web Service)](#backend--render-web-service)
   - [Frontend → Vercel](#frontend--vercel)
     
