@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@sentry/node": "^10.12.0",
+    "ajv": "^8.17.1",
+    "bullmq": "^5.58.7",
+    "csurf": "^1.11.0",
+    "dockerode": "^4.0.8",
+    "nanoid": "^5.1.5",
+    "redis": "^5.8.2",
+    "winston": "^3.17.0"
+  }
+}
+
+
